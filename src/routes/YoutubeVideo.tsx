@@ -40,8 +40,8 @@ export const YoutubeVideo = () => {
   return (
     <div ref={currentRef}>
       <iframe 
-        width={size.width} 
-        height={size.height} 
+        width={size.width-40} 
+        height={size.height-40} 
         src={sourceUrl}
         title="YouTube video player" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
