@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web-base:
+    image: "web-base"
+    build: .
+    container_name: "web-base-01"
+    restart: "always"
+    ports:
+      - "19000:3000"
+    working_dir: "/app"
+    volumes:
+      - ./src/:/app/src/

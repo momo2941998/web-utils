@@ -1,0 +1,16 @@
+{
+  "chooseLang": {
+    "hello": "Xin Chào",
+    "currentLang": "Ngôn ngữ"
+  },
+  "authStatus": {
+    "hello": "Xin chào, ",
+    "detail": "Thông tin tài khoản",
+    "logout": "Đăng xuất"
+  },
+  "welcome": {
+    "welcomeText": "Chào mừng đến với MOBIFONE",
+    "goLogin": "Đăng nhập hệ thống để sử dụng nhiều tính năng hơn",
+    "loginButton": "Đăng nhập"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "chooseLang": {
+    "hello": "Hello, world",
+    "currentLang": "current lang"
+  },
+  "authStatus": {
+    "hello": "Hello, ",
+    "detail": "User detail",
+    "logout": "Logout"
+  },
+  "welcome": {
+    "welcomeText": "Welcome to MOBIFONE",
+    "goLogin": "Go login page for more",
+    "loginButton": "Login"
+  }
+}
